@@ -57,3 +57,5 @@ str1.compareTo(str3); 	    // Will return 0 because Lam and Lam are equivalent s
 6. Inside the <b>PersonFactory</b> class, complete the method <b>under18</b>. This method will return a <b>new arraylist</b> containing all the person’s that are under the age of 18. (5 marks)
 
 7. Inside the <b>PersonFactory</b> class, complete the method <b>checkLastName</b>. This method will <b>return a boolean</b> depending on whether the allPersons list contains a person whose last name is equal to the argument (actual parameter) that is passed to the method. (5 marks)
+
+Darren
